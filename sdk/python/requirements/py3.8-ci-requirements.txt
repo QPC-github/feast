@@ -508,7 +508,7 @@ sphinxcontrib-qthelp==1.0.3
     # via sphinx
 sphinxcontrib-serializinghtml==1.1.5
     # via sphinx
-starlette==0.17.1
+starlette==0.25.0
     # via fastapi
 tabulate==0.8.9
     # via feast (setup.py)

@@ -127,7 +127,7 @@ six==1.16.0
     #   python-dateutil
 sniffio==1.2.0
     # via anyio
-starlette==0.17.1
+starlette==0.25.0
     # via fastapi
 tabulate==0.8.9
     # via feast (setup.py)
