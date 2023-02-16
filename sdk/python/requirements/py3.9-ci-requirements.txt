@@ -561,7 +561,7 @@ websocket-client==1.2.3
     # via docker
 websockets==10.1
     # via uvicorn
-werkzeug==2.0.2
+werkzeug==2.2.3
     # via moto
 wheel==0.37.1
     # via pip-tools
