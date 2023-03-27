@@ -434,7 +434,7 @@ pyyaml==6.0
     #   libcst
     #   pre-commit
     #   uvicorn
-redis==4.1.1
+redis==4.5.3
     # via feast (setup.py)
 regex==2022.1.18
     # via black
